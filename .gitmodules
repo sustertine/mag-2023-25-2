@@ -7,3 +7,6 @@
 [submodule "pikp"]
 	path = pikp
 	url = ./pikp
+[submodule "st"]
+	path = st
+	url = ./st

@@ -4,3 +4,6 @@
 [submodule "ia"]
 	path = ia
 	url = ./ia
+[submodule "pikp"]
+	path = pikp
+	url = ./pikp

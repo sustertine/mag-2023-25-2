@@ -7,10 +7,11 @@
 [submodule "tva"]
 	path = tva
 	url = ./tva
-[submodule "iis"]
-	path = iis
-	url = ./iis
 [submodule "ia"]
 	path = ia
 	url = https://github.com/sustertine/ia
     branch = develop
+[submodule "iis"]
+	path = iis
+	url = https://github.com/sustertine/iis
+	branch = develop

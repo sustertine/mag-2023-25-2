@@ -1,6 +1,3 @@
-[submodule "ia"]
-	path = ia
-	url = ./ia
 [submodule "pikp"]
 	path = pikp
 	url = ./pikp
@@ -13,3 +10,7 @@
 [submodule "iis"]
 	path = iis
 	url = ./iis
+[submodule "ia"]
+	path = ia
+	url = https://github.com/sustertine/ia
+    branch = develop

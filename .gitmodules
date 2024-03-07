@@ -4,9 +4,6 @@
 [submodule "st"]
 	path = st
 	url = ./st
-[submodule "tva"]
-	path = tva
-	url = ./tva
 [submodule "ia"]
 	path = ia
 	url = https://github.com/sustertine/ia
@@ -15,3 +12,6 @@
 	path = iis
 	url = https://github.com/sustertine/iis
 	branch = develop
+[submodule "tva"]
+	path = tva
+	url = https://github.com/sustertine/tva

@@ -1,6 +1,3 @@
-[submodule "pikp"]
-	path = pikp
-	url = ./pikp
 [submodule "ia"]
 	path = ia
 	url = https://github.com/sustertine/ia
@@ -15,3 +12,6 @@
 [submodule "st"]
 	path = st
 	url = https://github.com/sustertine/st
+[submodule "pikp"]
+	path = pikp
+	url = https://github.com/sustertine/pikp

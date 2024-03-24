@@ -12,6 +12,7 @@
 [submodule "st"]
 	path = st
 	url = https://github.com/sustertine/st
+	branch = develop
 [submodule "pikp"]
 	path = pikp
 	url = https://github.com/sustertine/pikp
